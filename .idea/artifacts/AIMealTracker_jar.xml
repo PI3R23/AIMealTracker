@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AIMealTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AIMealTracker_jar</output-path>
+    <root id="archive" name="AIMealTracker.jar">
+      <element id="module-output" name="AIMealTracker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sqlite-jdbc-3.47.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

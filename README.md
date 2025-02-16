@@ -5,7 +5,7 @@ AIMealTracker is a desktop application for tracking consumed meals and their nut
 
 ---
 
-### 2. Prerequisites  
+### Prerequisites  
 To use the application, an API key from [OpenRouter.ai](https://openrouter.ai/) is required.  
 
 #### **First Launch**  
@@ -18,7 +18,7 @@ If you want to change the API key, you have two options:
 
 ---
 
-### 3. Installation and Launch  
+### Installation and Launch  
 The application is distributed as a **JAR** file, which can be run on any operating system with **Java 8+** installed.  
 
 #### **Running the Application**  
@@ -30,7 +30,7 @@ or simply double-click the `.jar` file.
 
 ---
 
-### 4. File Structure  
+### File Structure  
 The application saves user data in the **AIMealTracker** directory within the home folder. Two main files are stored there:
 
 - **`database.db`** – A local SQLite database storing saved meals.
